@@ -4,7 +4,7 @@ A clean static portfolio website showcasing projects, skills, education, and con
 
 ## Live Demo
 
-[View the live site](https://abhinavray07.github.io/Proj_1_trying_to_learn_HTML_CSS_JS/)
+[View the live site](https://abhinavray07.github.io/portfolio/)
 
 ## Pages
 
